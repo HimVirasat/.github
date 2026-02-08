@@ -18,7 +18,7 @@ Many Himachali dialects are actively spoken but remain largely absent from moder
 
 ## Get Involved
 - Contribute sentences: [[Google Form link]](https://him-virasat.vercel.app/)
-- Join discussions: To be added...
+- Join discussions: https://discord.com/invite/PgJWcFXRTB
 - Technical contributions: See individual repositories
 
 ## License
